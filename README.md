@@ -1,12 +1,8 @@
-[![Coverage Status](https://coveralls.io/repos/github/synapsecns/synapse-contracts/badge.svg?branch=master)](https://coveralls.io/github/synapsecns/synapse-contracts?branch=master)
-[![Lint](https://github.com/synapsecns/synapse-contracts/actions/workflows/lint.yaml/badge.svg)](https://github.com/synapsecns/synapse-contracts/actions/workflows/lint.yaml)
-[![Test](https://github.com/synapsecns/synapse-contracts/actions/workflows/test.yaml/badge.svg)](https://github.com/synapsecns/synapse-contracts/actions/workflows/test.yaml)
-[![Coveralls](https://github.com/synapsecns/synapse-contracts/actions/workflows/coveralls.yaml/badge.svg)](https://github.com/synapsecns/synapse-contracts/actions/workflows/coveralls.yaml)
 
-# Synapse Contracts
 
-This repository contains smart contracts for Synapse Protocol. The repository uses hardhat as the development enviornment.
+## Welcome to the First Shibarium Bridge
+Shibnaut is a revolutionary multi-cross-chain bridge for Shibarium, designed to make transferring funds from Ethereum, Binance Smart Chain, and many other blockchains a breeze. With its sophisticated architecture and innovative features, Shibnaut will provide an unparalleled bridge that’s secure, affordable, and empowering for all users. Whether you’re a casual investor or an experienced trader, Shibnaut offers the ultimate monetization experience with reliable onboarding support and flat transaction fees. Get ready to take your investments to the next level with Shibnaut!
 
-## What is Synapse?
-Synapse is a cross-chain layer ∞ protocol powering frictionless interoperability between blockchains.
-By providing decentralized, permissionless transactions between any L1, sidechain, or L2 ecosystem, Synapse powers integral blockchain activities such as asset transfers, swaps, and generalized messaging with cross-chain functionality - and in so doing enables new primitives based off of its cross-chain architecture.
+Website : https://shibnaut.org
+Twitter: https://twitter.com/shibnauts
+Telegram: https://t.me/shibnaut
